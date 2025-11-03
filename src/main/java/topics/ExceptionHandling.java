@@ -1,3 +1,5 @@
+package topics;
+
 class IdNotFoundException extends Exception {
 
     IdNotFoundException(String message) {

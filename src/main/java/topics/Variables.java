@@ -1,3 +1,5 @@
+package topics;
+
 public class Variables {
 
     static void main() {

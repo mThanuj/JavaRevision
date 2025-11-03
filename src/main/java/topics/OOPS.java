@@ -1,3 +1,5 @@
+package topics;
+
 import java.util.function.BinaryOperator;
 
 interface MyMath {
